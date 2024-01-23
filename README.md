@@ -44,11 +44,8 @@ const indra = {
 
 <h3>My Github</h3>
 
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renocalvo&" alt="renocalvo" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renocalvo&show_icons=true&locale=en&layout=compact" alt="renocalvo" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=renocalvo&show_icons=true&locale=en&layout=compact" alt="renocalvo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renocalvo&show_icons=true&locale=en" alt="renocalvo" /></p>
  
 
