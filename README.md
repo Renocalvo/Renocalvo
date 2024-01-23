@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Indra Bayu</h1>
 <h3 align="center">A passionate and hapiness Develepor from indonesia, great to meet you i hope we can learn together</h3>
 <img align="right" alt="coding/gif" width="400" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
+<h2> Hi, I'm Dimas abimanyu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
+<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
+<p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+</em></p>
+
+[![Twitter: dimasabimanyy](https://img.shields.io/twitter/follow/dimasabimanyy?style=social)](https://twitter.com/dimasabimanyy)
+[![GitHub dimasabimanyy](https://img.shields.io/github/followers/dimasabimanyy?label=follow&style=social)](https://github.com/dimasabimanyy)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const dimas = {
+  pronouns: "he",
+  code: [Javascript, HTML, CSS, PHP],
+  tools: [React, Redux, MySql, SCSS, Bootstrap, Laravel, Styled-Components]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p>
 
