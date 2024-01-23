@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Indra Bayu</h1>
-<h3 align="center">A passionate and hapiness Develepor from indonesia, great to meet you i hope we can learn together</h3>
-<img align="right" alt="coding/gif" width="400" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
+
 <h2> Hi, I'm Dimas abimanyu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="40"></h2>
+<h3 align="center">A passionate and hapiness Develepor from indonesia, great to meet you i hope we can learn together</h3>
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
 <p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
@@ -13,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const dimas = {
+const indra = {
   pronouns: "he",
   code: [Javascript, HTML, CSS, PHP],
   tools: [React, Redux, MySql, SCSS, Bootstrap, Laravel, Styled-Components]
@@ -35,7 +34,7 @@ const dimas = {
 - 📫 How to reach me **indrabayu210903@gmail.com**
 
 - ⚡ Fun fact **I can handle your problem**
-
+<img align="right" alt="coding/gif" width="400" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
