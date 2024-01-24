@@ -73,7 +73,7 @@ const indra = {
 </br></br>
 
 
-<h3>My Github</h3>
+<h3>:octocat: My Github</h3>
 <details>
  <summary>This Week I Spent My Time On</summary>
 
