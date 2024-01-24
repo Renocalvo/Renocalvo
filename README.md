@@ -24,7 +24,7 @@ const indra = {
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p> <img align="right" alt="coding/gif" width="350" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
 
 ## 👤 About Me
-* 🤷‍♂️ 20 y.o
+* 🤷‍♂️ 20 year old
 * 🏠 i come from indonesia
 * 🏠 Live at Bima, NTB
 
@@ -43,6 +43,7 @@ const indra = {
 [![WhatsApp Badge](https://img.shields.io/badge/-0821--4293--1749-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/6282142931749/)](https://wa.me/6282142931749)
 [![Github Badge](https://img.shields.io/badge/-Renocalvo-black?style=flat&logo=github&logoColor=white&link=https://github.com/Renocalvo/)](https://github.com/Renocalvo)
 <p align="left">
+  
 <p align="left">
 </p>
 <br>
