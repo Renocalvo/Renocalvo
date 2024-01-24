@@ -1,6 +1,7 @@
 
 <h2> Hi, I'm Indra Bayu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif](https://media.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="40"></h2>
-<h3 align="center">A hapies Develepor from indonesia, great to meet you & i hope we can learn together<img src="https://cdn.kibrispdr.org/data/1789/love-gif-png-13.gif" width="40"></h3>
+<h3 align="center">A hapies Develepor from indonesia, great to meet you & i hope we can learn together
+<img src="https://cdn.kibrispdr.org/data/1789/love-gif-png-13.gif" width="40"></h3>
 
 <p align="center"><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
@@ -34,6 +35,8 @@ const indra = {
 - 🤔 I still need a lot of experience
 - ⚡ Fun fact i like trying
 
+
+
 <h2>:busts_in_silhouette: How to reach me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-indra-bayu?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indra-bayu-sayaib/)](https://www.linkedin.com/in/indra-bayu-sayaib/)
@@ -42,20 +45,81 @@ const indra = {
 [![Gmail Badge](https://img.shields.io/badge/-indrabayu210903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:indrabayu210903@gmail.com)](mailto:indrabayu210903@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-0821--4293--1749-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/6282142931749/)](https://wa.me/6282142931749)
 [![Github Badge](https://img.shields.io/badge/-Renocalvo-black?style=flat&logo=github&logoColor=white&link=https://github.com/Renocalvo/)](https://github.com/Renocalvo)
-<p align="left">
-  
-<p align="left">
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+<h2>:bulb: Languages & Frameworks</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+</br></br>
+<h2>:hammer_and_wrench: Tools I use</h2>
+<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
+
 
 <h3>My Github</h3>
-<p><img align="right" width="350"  src="https://github-readme-stats.vercel.app/api/top-langs?username=renocalvo&show_icons=true&locale=en&layout=compact" alt="renocalvo" /></p>
+<details>
+ <summary>This Week I Spent My Time On</summary>
 
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=renocalvo&" alt="renocalvo" /></p>
+```text
+⌚︎ Time Zone: Asia/Jakarta
 
-<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=renocalvo&show_icons=true&locale=en" alt="renocalvo" /></p>
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+</details>
+
+<details>
+<summary>Top languages</summary>
+    <a href="https://github.com/renocalvo">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=renocalvo&theme=midnight-blue&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
+
+<details>
+ <summary>Streak stats</summary>
+     <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=renocalvo&" alt="renocalvo" /></p>
+</details>
+
+<details> 
+ <summary>Contribution Graph</summary>
+    <p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=renocalvo&show_icons=true&locale=en" alt="renocalvo" /></p>
+</details>
+
+<details>
+<summary>Achievements</summary>
+    <a href="https://github.com/renocalvo">
+      <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=renocalvo&theme=white&no-frame=true&column=7">
+    </a>
+</details>
+
+
+
+
  
 
  
