@@ -21,21 +21,28 @@ const indra = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p> <img align="right" alt="coding/gif" width="400" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p> <img align="right" alt="coding/gif" width="350" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
 
-- 🌱 I’m currently learning **All about programming**
+## 👤 About Me
+* 🤷‍♂️ 20 y.o
+* 🏠 i come from indonesia
+* 🏠 Live at Bima, NTB
 
-- 👨‍💻 All of my projects are available at **-**
+ **Personal Stuffs:**
+- 🌱 I’m currently learning all language i can
+- ✨ Interested in API development 
+- 🤔 I still need a lot of experience
+- ⚡ Fun fact i like trying
 
-- 📝 I regularly write articles on **instagram**
+<h2>:busts_in_silhouette: How to reach me</h2>
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **indrabayu210903@gmail.com**
-
-- ⚡ Fun fact **I can handle your problem**
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-irwan--xyans-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-xyans/)](https://www.linkedin.com/in/irwan-xyans/)
+[![Twitter Badge](https://img.shields.io/badge/-@saya_IB21-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saya_IB21)](https://twitter.com/saya_IB21)
+[![Instagram Badge](https://img.shields.io/badge/-@irwan_x_yans-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/irwan_x_yans/)](https://instagram.com/irwan_x_yans)
+[![Gmail Badge](https://img.shields.io/badge/-irwan080304-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:irwan080304@gmail.com)](mailto:irwan080304@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-0888--2611--841-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/628882611841/)](https://wa.me/628882611841)
+[![Github Badge](https://img.shields.io/badge/-irwanx-black?style=flat&logo=github&logoColor=white&link=https://github.com/irwanx/)](https://github.com/irwanx)
+<p align="left">
 <p align="left">
 </p>
 <br>
