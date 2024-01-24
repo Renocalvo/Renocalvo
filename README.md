@@ -2,7 +2,7 @@
 <h2> Hi, I'm Indra Bayu! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif](https://media.giphy.com/media/EKrFksrzxQxlb5ahiq/giphy.gif" width="40"></h2>
 <h3 align="center">A hapies Develepor from indonesia, great to meet you & i hope we can learn together<img src="https://cdn.kibrispdr.org/data/1789/love-gif-png-13.gif" width="40"></h3>
 
-<p><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
+<p align="center"><em>Software Engineer <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: saya_IB21](https://img.shields.io/twitter/follow/saya_IB21?style=social)](https://twitter.com/saya_IB21)
