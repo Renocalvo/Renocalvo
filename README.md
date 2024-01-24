@@ -10,7 +10,7 @@
 [![GitHub Renocalvo](https://img.shields.io/github/followers/Renocalvo?label=follow&style=social)](https://github.com/Renocalvo)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img align='right'  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="175">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img align='right'  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="155">
 
 ```javascript
 const indra = {
