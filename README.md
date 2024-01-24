@@ -10,7 +10,7 @@
 [![GitHub Renocalvo](https://img.shields.io/github/followers/Renocalvo?label=follow&style=social)](https://github.com/Renocalvo)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img align='right'  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="135">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img align='right'  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="140">
 
 ```javascript
 const indra = {
@@ -20,20 +20,20 @@ const indra = {
 }
 ```
 
-<img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p> <img align="right" alt="coding/gif" width="300" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=renocalvo&label=Profile%20views&color=0e75b6&style=flat" alt="renocalvo" /> </p> <img align="right" alt="coding/gif" width="300" src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
 
 ## 👤 About Me
 * 🤷‍♂️ 20 year old
-* 🏠 i come from indonesia
+* 🏠 I from Indonesia
 * 🏠 Live at Bima, NTB
 
  **Personal Stuffs:**
 - 🌱 I’m currently learning all language i can
 - ✨ Interested in API development 
 - 🤔 I still need a lot of experience
-- ⚡ Fun fact i like trying
+- ⚡ Fun fact i like 
 
 
 
