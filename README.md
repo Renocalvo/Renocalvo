@@ -30,10 +30,10 @@ const indra = {
 * 🏠 Live at Bima, NTB
 
  **Personal Stuffs:**
-- 🌱 I’m currently learning all language i can
+- 🌱 I’m currently learning web-dev
 - ✨ Interested in API development 
 - 🤔 I still need a lot of experience
-- ⚡ Fun fact i like 
+- ⚡ Fun fact i like to learn from other repo
 
 
 
@@ -80,13 +80,13 @@ const indra = {
 ```text
 ⌚︎ Time Zone: Asia/Jakarta
 
-💬 Programming Languages: 
+💬 My currently project status: 🟡Inactive
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 My curently learnings status: 🟢Active
+Learning Web-Development 
 
-💻 Operating System: 
+💻 My currently GitHub activity status: 🟡Inactive
 No Activity Tracked This Week
 
 ```
