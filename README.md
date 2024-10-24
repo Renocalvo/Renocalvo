@@ -40,10 +40,7 @@ const indra = {
 <h2>:busts_in_silhouette: How to reach me</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-indra-bayu?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/indra-bayu-sayaib/)](https://www.linkedin.com/in/indra-bayu-sayaib/)
-[![Twitter Badge](https://img.shields.io/badge/-@saya_IB21-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saya_IB21)](https://twitter.com/saya_IB21)
-[![Instagram Badge](https://img.shields.io/badge/-@saya___ib-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/saya___ib/)](https://instagram.com/saya___ib)
 [![Gmail Badge](https://img.shields.io/badge/-indrabayu210903-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:indrabayu210903@gmail.com)](mailto:indrabayu210903@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-0821--4293--1749-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/6282142931749/)](https://wa.me/6282142931749)
 [![Github Badge](https://img.shields.io/badge/-Renocalvo-black?style=flat&logo=github&logoColor=white&link=https://github.com/Renocalvo/)](https://github.com/Renocalvo)
 
 
